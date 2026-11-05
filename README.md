@@ -7,7 +7,7 @@
   <a href="mailto:ece.vivek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://vivtiw.github.io"><img alt="Website" src="https://img.shields.io/badge/Web-vivtiw.github.io-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/1762806/quick-silver"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-Profile-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
-  <img alt="Open to Staff/Principal roles" src="https://img.shields.io/badge/Open%20to-Staff%20%2F%20Principal%20roles-16a34a?style=for-the-badge">
+  <img alt="Open to connect and build something awesome" src="https://img.shields.io/badge/Open%20to-connect%20%26%20build%20something%20awesome-16a34a?style=for-the-badge">
 </p>
 
 ---
