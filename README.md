@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/https://linkedin.com/in/vivektiwari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ece.vivek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://vivtiw.github.io"><img alt="Website" src="https://img.shields.io/badge/Web-vivtiw.github.io-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <img alt="Open to Staff/Principal roles" src="https://img.shields.io/badge/Open%20to-Staff%20%2F%20Principal%20roles-16a34a?style=for-the-badge">
